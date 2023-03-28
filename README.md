@@ -5,6 +5,6 @@
 <p>In this project, I used only HTML, SASS and JS technologies. I used the SASS structure because it is easier and more fun. If you've used SASS before, I highly recommend it. </p>
 
 <h3>🏃‍♂️ View and browse the design freely with the demo.</h3>
-<p>I will share the demo link to see the design and browse comfortably. <a href="https://slab.karrc.com" target="_blank">You can click me to see the demo.</a></p>
+<p>I will share the demo link to see the design and browse comfortably. <a href="https://slab-lac.vercel.app/" target="_blank">You can click me to see the demo.</a></p>
 
 <img src="https://i.hizliresim.com/9fp1o8v.png" style="">
